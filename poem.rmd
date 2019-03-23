@@ -20,32 +20,12 @@ you, if you change any of this the git program will notice it and compromise you
       Shining with all his might:  
 He did his very best to make  
       The billows smooth and bright —  
-And this was odd, because it was  
+And this was odd, because it was    
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
-Nature’s first green is gold,  
-Her hardest hue to hold.  
-Her early leaf’s a flower;  
-But only so an hour.  
-Then leaf subsides to leaf.  
-
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
-
-"The sun was shining on the sea,  
-      Shining with all his might:  
-
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
-
-
-At midnight, in the month of June,   
-I stand beneath the mystic moon.   
-An opiate vapor, dewy, dim,   
-Exhales from out her golden rim,   
-And softly dripping, drop by drop,   
-Upon the quiet mountain top,   
-Steals drowsily and musically   
-Into the universal valley.   
